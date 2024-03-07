@@ -1,0 +1,27 @@
+.container{
+  border:1px solid black;
+  margin:auto;
+  width:25%;
+}
+.img{
+  width:100%
+}
+.button{
+  margin-left: 10vw;
+  margin-bottom: 10px;
+  background-color: blue;
+  color: azure;
+  height: 30px;
+  width: 60px;
+  border-radius: 10px;
+  border-style: none;
+}
+.title{
+  margin-left: 20px;
+}
+.text{
+margin-left: 20px;
+}
+.price{
+margin-left: 20px;
+}
